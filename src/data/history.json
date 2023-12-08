@@ -1,0 +1,11 @@
+[
+  {
+    "role": "Teacher's Assistant",
+    "organisation": "OSU",
+    "startDate": "January, 2022",
+    "endDate": "August, 2023",
+    "experiences": ["Facilitated weekly office hours", "Provided frequent code review", "Performed weekly grading"],
+    "imageSrc": "history/osu.png"
+  }
+
+]

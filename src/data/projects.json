@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Climate Change Study App",
+    "imageSrc": "projects/climateChange.png",
+    "description": "Developed a study website for students taking Introduction to Climate Change course at Oregon State University.",
+    "skills": ["Python", "CSS", "HTML"],
+    "demo": "https://capstone-384605.wl.r.appspot.com/",
+    "source": "https://github.com/Asa-Is-My-Name/Capstone"
+  },
+  {
+    "title": "Coffee Roastery Database",
+    "imageSrc": "projects/cowboyCoffee.png",
+    "description": "Developed a database-driven website for a mock company named The Space Cowboys Coffee Connections.",
+    "skills": ["React", "Jinja", "SQL"],
+    "demo": "https://github.com/kayticodes/Coffee_Roastery_DB/blob/main/README.md",
+    "source": "https://github.com/kayticodes/Coffee_Roastery_DB"
+  },
+  {
+    "title": "Workout App",
+    "imageSrc": "projects/project.png",
+    "description": "Created a web app to log user exercises with date, weight, and rep details. Utilized a Node.js RESTful API with Express.js for CRUD operations on MongoDB.",
+    "skills": ["JavaScript", "React", "Rest API", "MongoDB", "CSS"],
+    "demo": "https://github.com/kayticodes/Coffee_Roastery_DB/blob/main/README.md",
+    "source": "https://github.com/kayticodes/Coffee_Roastery_DB/tree/main"
+  }
+]
